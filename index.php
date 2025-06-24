@@ -7,6 +7,13 @@
     <meta name="description" content="大阪市鶴見区のプライベートネイルサロン AND.here NAIL【アンドヒアネイル】です。お爪に優しく、可愛く、艶やフォルムにこだわります。美爪育成、自爪の健康も大切にしています。">
     <meta name="keywords" content="ネイルサロン,大阪,鶴見">
     <meta name="format-detection" content="email=no,telephone=no,address=no">
+    <meta name="robots" content="index,follow">
+    <meta name="google-site-verification" content="2hmmT_DJ0ZMa2Im8Muq9GwFNnS5ZePivlsbVy0NrZZ8">
+    <meta property="og:title" content="AND.here NAIL">
+    <meta property="og:description" content="大阪市鶴見区のプライベートネイルサロン。美爪育成や自爪の健康も大切にしています。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ahnail.stars.ne.jp/">
+    <meta property="og:image" content="https://webftp-sv12006.star.ne.jp/ahnail.stars.ne.jp/public_html/wp-content/themes/img/main_json.jpg">
     <link rel="icon" type="image/svg+xml" sizes="any" href="<?php echo get_template_directory_uri();?>/img/favicon_48.svg">
     <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="<?php echo get_template_directory_uri();?>/img/favicon_180.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -14,6 +21,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/style.css">
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "AND.here NAIL",
+        "url": "https://ahnail.stars.ne.jp/",
+        "logo": "https://webftp-sv12006.star.ne.jp/ahnail.stars.ne.jp/public_html/wp-content/themes/img/favicon_180.png"
+        }
+    </script>
     <?php wp_head();?>
 </head>
 <body>
